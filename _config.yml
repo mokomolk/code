@@ -21,7 +21,7 @@
 title: Code
 email: moko75@hotmail.com
 description: Code experiment
-destination: /docs
+destination: docs
 baseurl: "/code" # the subpath of your site, e.g. /blog
 url: "https://mokomolk.github.io/code/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
